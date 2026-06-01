@@ -1,0 +1,2 @@
+# PUB_Carvalho_et_al_2026_Shinyapp_Ligand_Receptor
+Shiny App for Ligand Recepetor analysis
